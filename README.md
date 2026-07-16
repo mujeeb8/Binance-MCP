@@ -1,9 +1,9 @@
 # Binance MCP
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/modelcontextprotocol/go-sdk/main/images/logo-light.svg" alt="MCP logo" width="120" />
+  <img alt="MCP logo" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><rect fill='%2300BFA6' width='100%25' height='100%25'/><text x='50%25' y='54%25' font-size='36' fill='white' text-anchor='middle' dominant-baseline='middle' font-family='Arial'>MCP</text></svg>" width="120" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.binance.com/favicon.ico" alt="Binance logo" width="120" />
+  <img alt="Binance logo" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><rect fill='%23FCD535' width='100%25' height='100%25'/><text x='50%25' y='54%25' font-size='20' fill='black' text-anchor='middle' dominant-baseline='middle' font-family='Arial'>Binance</text></svg>" width="120" />
 </p>
 
 <p align="center">
