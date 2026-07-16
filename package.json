@@ -1,0 +1,27 @@
+{
+  "name": "binance-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Professional Binance MCP server for live prices, balances, and Convert workflows.",
+  "bin": {
+    "binance-mcp": "./build/index.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node build/index.js",
+    "dev": "tsc -p tsconfig.json -w",
+    "check": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "dotenv": "^17.2.1",
+    "ws": "^8.18.3",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "@types/ws": "^8.18.1",
+    "typescript": "^7.0.2"
+  }
+}
