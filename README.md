@@ -1,9 +1,9 @@
 # Binance MCP
 
 <p align="center">
-  <img alt="MCP logo" src="assets/binance-logo.png" width="160" height="160" />
+  <img alt="MCP logo" src="assets/binance-logo.png" width="180" height="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Binance logo" src="assets/mcp-logo.png" width="160" height="160" />
+  <img alt="Binance logo" src="assets/mcp-logo.png" width="180" height="180" />
 </p>
 
 <p align="center">
