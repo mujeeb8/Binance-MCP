@@ -80,7 +80,7 @@ If you want the deeper implementation notes, endpoint details, and design ration
 
 ## Claude Desktop Setup
 
-Use the compiled server entry point in your Claude Desktop MCP configuration.
+Use the compiled server entry point in your claude_desktop_config.json file.
 
 ### Example configuration
 
